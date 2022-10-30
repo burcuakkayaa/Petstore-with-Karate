@@ -44,7 +44,7 @@ public class TestDataCreator {
 
     public static String getCatCategoryName() {
         /**
-         * Returns a cat cateory name
+         * Returns a cat category name
          */
         return faker.cat().breed();
     }
